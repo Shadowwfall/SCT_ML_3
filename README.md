@@ -73,7 +73,7 @@ Before Color Conversion
 
 After Converting BGR to RGB
 
-![RGB Image](Dog_Cat_SVM_CAT_IMG_2.png.jpg)
+![RGB Image](/images/Dog_Cat_SVM_CAT_IMG_2.png.jpg)
 
 ---
 
