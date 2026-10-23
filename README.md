@@ -79,7 +79,7 @@ After Converting BGR to RGB
 
 ## 📈 Classification Report
 
-![Classification Report](Dog_Cat_SVM_CLASSIFICATION_REPORT.png.jpg)
+![Classification Report](https://github.com/Shadowwfall/SCT_ML_3/blob/main/images/Dog_Cat_SVM_CLASSIFICATION_REPORT.png.jpg)
 
 ---
 
