@@ -69,7 +69,7 @@ Classification Metrics:
 
 Before Color Conversion
 
-![Sample Image](Dog_Cat_SVM_CAT_IMG_1.png.jpg)
+![Sample Image](/images/Dog_Cat_SVM_CAT_IMG_1.png.jpg)
 
 After Converting BGR to RGB
 
@@ -79,7 +79,7 @@ After Converting BGR to RGB
 
 ## 📈 Classification Report
 
-![Classification Report](https://github.com/Shadowwfall/SCT_ML_3/blob/main/images/Dog_Cat_SVM_CLASSIFICATION_REPORT.png.jpg)
+![Classification Report](/images/Dog_Cat_SVM_CLASSIFICATION_REPORT.png.jpg)
 
 ---
 
