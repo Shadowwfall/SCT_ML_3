@@ -120,6 +120,6 @@ SCT_ML_3/
 
 ## 👨‍💻 Author
 
-**Samyak Jain**
+**Prakhar Kaushik
 
 Machine Learning Intern at SkillCraft Technology
